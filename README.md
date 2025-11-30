@@ -83,7 +83,7 @@ pip install tensorflow numpy matplotlib scikit-learn pillow
 2.  **Place the Data**: Extract the dataset so that a `leapGestRecog` folder exists in the same directory as the script.
 3.  **Run the Script**:
     ```bash
-    python project_sem6.py
+    Hand-Gesture-Detection.py
     ```
 
 > **Note**: The current script contains some code specific to Google Colab (like `google.colab` imports). These sections need to be commented out or removed to run locally on your machine.
